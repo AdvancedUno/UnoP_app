@@ -8,13 +8,13 @@ UnoP is designed to transform how you interact within your communities, streamli
 </p>
 
 <p align="center">
-   <img src="assets/unop_1.png" width="180" height="400">
-      <img src="assets/unop_2.png" width="180" height="400">
+   <img src="assets/unop_1.png" width="170" height="350">
+      <img src="assets/unop_2.png" width="170" height="350">
 
- <img src="assets/unop_5.png" width="180" height="400">
-   <img src="assets/unop_3.png" width="180" height="400">
+ <img src="assets/unop_5.png" width="170" height="350">
+   <img src="assets/unop_3.png" width="170" height="350">
 
-   <img src="assets/unop_4.png" width="180" height="400">
+   <img src="assets/unop_4.png" width="170" height="350">
 
   
 
