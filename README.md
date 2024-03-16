@@ -2,6 +2,12 @@
 
 UnoP is designed to transform how you interact within your communities, streamlining professional collaborations and enhancing social circles. Our platform offers a comprehensive suite of features that foster real-time communication, effortless group management, and engaging collaborative tools, all within a privacy-controlled environment.
 
+
+<p align="center">
+   <img src="assets/UnoP_logo.png" width="500" height="500">
+</p>
+
+
 ## Key Features
 
 - **Responsive Design:** Tailored for a seamless experience across all devices.
@@ -38,15 +44,15 @@ flutter pub get
 open -a simulator # For iOS Simulator
 flutter run
 flutter run -d chrome --web-renderer html # For the best web experience
+```
 
 
-
-Technologies
+# Technologies
 Backend: Firebase Auth, Firebase Storage, Firebase Firestore
 Frontend: Flutter, utilizing Provider for state management
 
 
-Contributing
+# Contributing
 We welcome contributions to UnoP! Whether it's feature suggestions, bug reports, or code contributions, your feedback is invaluable in making UnoP the best platform for group interactions.
 
 Join us in revolutionizing group communication. Try UnoP today and experience the difference!
