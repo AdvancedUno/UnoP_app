@@ -13,19 +13,7 @@ import 'package:provider/provider.dart';
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
-  // initialise app based on platform- web or mobile
-  if (kIsWeb) {
-    await Firebase.initializeApp(
-      options: const FirebaseOptions(
-          apiKey: "AIzaSyCPON0Y8-BcLKT4_oF8ABtOrZfl03iEzgs",
-          appId: "1:958494989453:web:fd1bb63921de79b50696c4",
-          messagingSenderId: "958494989453",
-          projectId: "unop-57893",
-          storageBucket: 'unop-57893.appspot.com'),
-    );
-  } else {
-    await Firebase.initializeApp();
-  }
+
   runApp(const MyApp());
 }
 
